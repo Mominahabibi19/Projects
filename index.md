@@ -4,7 +4,7 @@
 
 ![image](myphoto.JPG)
  
-I am a third-year student in the Department of Computer Science and Engineering(CSE), *a passionate programmer*. Currently, I am working as a student assistant in the STEM center at Mesa College. I am married and have two lovely kids. Here is the picture of [My beautiful family](family.jpg)
+I am a third-year student in the Department of Computer Science and Engineering(CSE), *a passionate programmer*. Currently, I am working as a student assistant in the STEM center at Mesa College. I am married and have two lovely kids. Here is the picture of [My beautiful family](famm.png)
 If you are interested in collaborating or just want to say hi, feel free to [connect with me](#connect-with-me).
 
 ## A Few Technologies I Enjoy Working With
