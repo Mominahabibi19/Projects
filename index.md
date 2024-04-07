@@ -5,19 +5,24 @@
 
 ![image](myphoto.JPG)
  
-I am a third-year student in the Department of CSE. I am currently working as a student assistant in the STEM center of Mesa College. I am married and have two lovely kids. 
+I am a third-year student in the Department of CSE. I am currently working as a student assistant in the STEM center of Mesa College. I am married and have two lovely kids.[my beautiful family](
 
   ### A Few Technologies I Enjoy Working With
-  ```plaintext
+  ```
   -Python
   -VScode
   -GitHub
   -Notability
   ```
+  ### My plan 
   ### My interests
   - **Cooking**: cooking is my canvas for creativity, where I experiment with
   - **Walking and Listening to Music**: There's nothing better than a good walk while listening to my favorite music to clear my mind.
- 
-  This is my [Linkedln](http://linkedin.com/in/momina-habibi-612164290)
+
+    
+  ## Connect With Me
+  my [Linkedln](http://linkedin.com/in/momina-habibi-612164290)
+  my [GitHub](https://github.com/Mominahabibi19)
+  
   
   
